@@ -29,7 +29,7 @@ client | 接入层/入口
 - ...
 ```
 #### 端口分配说明
-> 可[参考此表](http://note.youdao.com/noteshare?id=752cd03ce703cef05b1661319b470272)，或@Forest
+> 可[参考此表](https://github.com/lmhaoye/smcbdoc/blob/master/service.md)，或@Forest
 
 #### 包路径规范：
 
