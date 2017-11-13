@@ -78,6 +78,6 @@ logging:
 ```
 
 #### 其它支持
-1. 支撑监控体系，请查看[监控体系接入](http://note.youdao.com/noteshare?id=2832788831d7d42f04c55bb4b56b226e)
-2. 需要配置中心化，请查看[配置中心使用说明](http://note.youdao.com/noteshare?id=ef4311a5142f2d6c6aae1db036492ef0)
-3. 开发涉及服务之间互相调用，请参考[Feign使用说明](http://note.youdao.com/noteshare?id=9d60879cffff7d6e4e5dcd94b41ce036)
+1. 支撑监控体系，请查看[监控体系接入](https://github.com/lmhaoye/smcbdoc/blob/master/%E7%9B%91%E6%8E%A7%E4%BD%93%E7%B3%BB%E6%8E%A5%E5%85%A5.md)
+2. 需要配置中心化，请查看[配置中心使用说明](https://github.com/lmhaoye/smcbdoc/blob/master/%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+3. 开发涉及服务之间互相调用，请参考[Feign使用说明](https://github.com/lmhaoye/smcbdoc/blob/master/Feign%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
