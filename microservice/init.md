@@ -29,7 +29,7 @@ client | 接入层/入口
 - ...
 ```
 #### 端口分配说明
-> 可[参考此表](https://github.com/lmhaoye/smcbdoc/blob/master/service.md)，或@Forest
+> 可[参考此表](https://github.com/lmhaoye/smcbdoc/blob/master/micorservice/service.md)，或@Forest
 
 #### 包路径规范：
 
@@ -78,7 +78,7 @@ logging:
 ```
 
 #### 其它支持
-1. 支撑监控体系，请查看[监控体系接入](https://github.com/lmhaoye/smcbdoc/blob/master/%E7%9B%91%E6%8E%A7%E4%BD%93%E7%B3%BB%E6%8E%A5%E5%85%A5.md)
-2. 需要配置中心化，请查看[配置中心使用说明](https://github.com/lmhaoye/smcbdoc/blob/master/%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
-3. 开发涉及服务之间互相调用，请参考[Feign使用说明](https://github.com/lmhaoye/smcbdoc/blob/master/Feign%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
-4. 当前服务一览，[点击查看](https://github.com/lmhaoye/smcbdoc/blob/master/service.md)
+1. 支撑监控体系，请查看[监控体系接入](https://github.com/lmhaoye/smcbdoc/blob/master/micorservice/%E7%9B%91%E6%8E%A7%E4%BD%93%E7%B3%BB%E6%8E%A5%E5%85%A5.md)
+2. 需要配置中心化，请查看[配置中心使用说明](https://github.com/lmhaoye/smcbdoc/blob/master/micorservice/%E9%85%8D%E7%BD%AE%E4%B8%AD%E5%BF%83%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+3. 开发涉及服务之间互相调用，请参考[Feign使用说明](https://github.com/lmhaoye/smcbdoc/blob/master/micorservice/Feign%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+4. 当前服务一览，[点击查看](https://github.com/lmhaoye/smcbdoc/blob/master/micorservice/service.md)
