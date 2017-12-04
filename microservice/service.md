@@ -1,7 +1,7 @@
 
 > 服务总表
 
-序号| 服务|别名 | 端口|所在服务器 |路径(/data/web/)
+序号| 服务|别名 | 端口|服务 |路径(/data/web/)
 ---|---|--|---|---|---|
 1|smcb-server-eureka|注册中心|12100|core-1/core-2|server/smcb-server-eureka.jar
 2|smcb-server-config|配置中心|12110|core-1/core-2|server/smcb-server-config.jar
@@ -17,8 +17,19 @@
 12|smcb-service-audio|音频服务|12302|core-2|service/smcb-service-audio.jar
 13|smcb-service-message|消息服务|12303|core-2|service/smcb-service-message.jar
 14|smcb-server-admin|服务管理|12101|core-2|server/smcb-server-admin.jar
-15|smcb-service-ale|服务|12305|core-2|service/smcb-service-ale.jar
-16|smcb-service-third|服务|12306|core-2|service/smcb-service-ale.jar
+15|smcb-service-ale|双十一服务|12305|core-2|service/smcb-service-ale.jar
+16|smcb-service-third|第三方服务|12306|core-2|service/smcb-service-ale.jar
+17|smcb-service-live|直播服务|12307|core-2|service/smcb-service-live.jar
+18|smcb-service-product|产品服务|12308|core-1|service/smcb-service-product.jar
+19|smcb-service-adt|双十二服务|12309|core-1|service/smcb-service-adt.jar
+20|smcb-client-pc|pc接入层|12207|app-1/app-2|client/smcb-client-pc.jar
+21|smcb-client-bo|分析师平台接入层|12208|app-1/app-2|client/smcb-client-bo.jar
+22|smcb-client-act|活动接入层|12204|app-1/app-2|client/smcb-client-act.jar
+23|smcb-client-web|官网接入层|12209|app-1/app-2|client/smcb-client-web.jar
+24|smcb-service-user|用户服务|1231-|core-1/core-2|service/smcb-service-user.jar
+24|smcb-service-order|订单服务|12311|core-1/core-2|service/smcb-service-order.jar
+
+
 
 ---
 > 域名与服务对应
